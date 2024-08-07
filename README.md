@@ -1,10 +1,5 @@
 ## Hello everyone 👋
 
-
-
-**youngsoon12/youngsoon12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<div align=center><h2>Hello👋 I am Jiyoung Lee, Front-end Developer</h2></div>
 <div align=center>
   <div align=center><h3>Stack</h3></div>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
