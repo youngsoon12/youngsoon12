@@ -1,6 +1,8 @@
-## Hello everyone 👋
+
 
 <div align=center>
+  ## Hello everyone 👋
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
   <div align=center><h3>Stack</h3></div>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
