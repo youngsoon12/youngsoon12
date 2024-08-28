@@ -16,10 +16,8 @@
 
 </div>
 
-<hr>
 
-
-  <table align="center">
+  <table align="center" style="margin:30px">
   <tr>
     <td>
       <b>⚡ TECH STACK ⚡</b> <br />
