@@ -43,7 +43,7 @@
 
 <div align="center">
   
-![영순's github stats](https://github-readme-stats.vercel.app/api?username=youngsoon12)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact)
+![영순's github stats](https://github-readme-stats.vercel.app/api?username=youngsoon12&hide=contribs,prs&show_icons=true&theme=default&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=400)
   
 </div>
