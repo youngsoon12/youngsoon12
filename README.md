@@ -36,7 +36,7 @@
       </span>
     </td>
     <td>
-      :막대_차트: GitHub Stats
+      <b>📊 GitHub Stats</b> <br />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="300" />
     </td>
   </tr>
