@@ -9,7 +9,7 @@
 <div align="center">
   
 <b>😊 My favorite 😊</b>
-<br />
+<br /><br />
 
 💪Exercise 🎵Music <br>
 💬Talk 📺watching movie
@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Discord-5865f2?style=flat&logo=Discord&logoColor=white">
 
   <b>📊 GitHub Stats</b> <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="600" />
 
 
 </div>
