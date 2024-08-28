@@ -1,9 +1,11 @@
 <div align="center">
 
 <div style="text-align: center;">
+ 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=dcdcdc&text=&animation=twinkling&height=80)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=333333&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+YoungSoon12's+GitHub!👋)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
