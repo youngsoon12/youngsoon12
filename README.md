@@ -9,17 +9,16 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=333333&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+YoungSoon12's+GitHub!👋)](https://git.io/typing-svg) -->
 </div>
 
-<div align="center">
+<br><br>
 <b>😊 My favorite 😊</b>
 <br />
 💪Exercise 🎵Music <br />
  💬Talk 📺watching movie
- </div>
-<hr>
+<br><br>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; max-width: 800px;">
         <div style="text-align: center; margin-right: 20px;">
-            <b>⚡ TECH STACK </b>
+            <b>✏️ SKILLS </b>
             <br><br>
             <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
             <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
@@ -39,7 +38,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="200" />
 </div>
 </div>
-    
+<br><br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer">
 
 </div>
