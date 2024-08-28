@@ -18,9 +18,9 @@
 
 <hr>
 
+<div style="display: flex; justify-content: center; align-items: center;">
 
-  <div style="display:flex">
-  <div>
+  <div style="margin-right: 20px;">
     <b>⚡ TECH STACK ⚡</b> <br />
     <span>
       <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -37,6 +37,8 @@
     </span>
   </div>
 
+  <span style="margin: 0 20px;">|</span>
+
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="300" />
   </div>
@@ -44,4 +46,3 @@
 </div>
 
 <hr>
-
