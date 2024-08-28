@@ -2,7 +2,7 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&fontSize=30&text=🖐🏻YoungSoon🖐🏻">
-<br>
+
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungsoon12&count_bg=%23E4CEF0&title_bg=%23D1DDF2&icon=&icon_color=%23E8E5E5&title=hits&edge_flat=false">
 <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=enejwk789">
 </div>
@@ -38,5 +38,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="320" />
 </div>
 <br><br>
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer">
+</div>
 </div>
