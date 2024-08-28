@@ -18,9 +18,29 @@
 
 <hr>
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div align="center" style="text-align: center;">
 
-  <div style="flex: 1; display: flex; flex-wrap: wrap; justify-content: flex-start;">
+![header](https://capsule-render.vercel.app/api?type=waving&color=dcdcdc&text=&animation=twinkling&height=80)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=333333&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+YoungSoon12's+GitHub!👋)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  
+<b>😊 My favorite 😊</b>
+<br />
+
+💪Exercise 🎵Music <br>
+💬Talk 📺watching movie
+
+</div>
+
+<hr>
+
+<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; max-width: 1000px;">
+
+  <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; align-items: flex-start;">
     <b>⚡ TECH STACK ⚡</b> <br />
     <span>
       <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -35,10 +55,12 @@
     </span>
   </div>
 
-  <div style="flex: 1; display: flex; justify-content: flex-end;">
+  <div style="flex: 1; min-width: 300px; display: flex; justify-content: flex-end;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="300" />
   </div>
 
 </div>
 
+
 <hr>
+
