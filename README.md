@@ -1,25 +1,28 @@
+<div align="center">
 
 ## Hello everyone 👋
-<div align=center>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안+녕+하+세+요;반+갑+습+니+다+람+쥐)](https://git.io/typing-svg)
-  <div align=center><h3>Stack</h3></div>
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 
-<div align=center><h3>Skill</h3></div>
-<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&color=3DF74A&center=true&vCenter=true&width=435&lines=Hello+everyone+!;Welcome+to+YoungSoon12+github+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
-<!--
-**yellowgnuoy/yellowgnuoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center"><h3>Stack</h3></div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=youngsoon12);
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디&layout=레이아웃 스타일&theme=스타일)
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngsoon12&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
