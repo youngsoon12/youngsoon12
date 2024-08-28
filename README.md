@@ -1,6 +1,7 @@
 <div align="center">
 <b>⭐Hello Everyone⭐</b>
 <br>
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&color=36454A&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello+everyone+!;Welcome+to+youngsoon12+github+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
@@ -21,6 +22,7 @@
 <div align="center">
 <b>⚡ TECH STACK ⚡</b> <br>
 <br>
+  
 <img src="https://img.shields.io/badge/html5-E34F26?style=fot-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=fot-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=fot-the-badge&logo=javascript&logoColor=black">
