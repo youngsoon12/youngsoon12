@@ -13,7 +13,7 @@
 <b>😊 My favorite 😊</b>
 <br />
 
-💪Exercise 🎵Music
+💪Exercise 🎵Music <br>
 💬Talk 📺watching movie
 
 </div>
