@@ -18,7 +18,7 @@
 
 <hr>
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; flex-direction: row">
 
   <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
     <b>⚡ TECH STACK ⚡</b> <br />
@@ -37,9 +37,9 @@
     </span>
   </div>
 
-  <span>
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="300" />
-  </span>
+  </div>
 
 </div>
 
