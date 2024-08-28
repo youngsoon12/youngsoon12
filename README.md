@@ -1,8 +1,12 @@
+<div align="center"> 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f0f0f0&text=&animation=twinkling&height=80)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=333333&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+YoungSoon12's+GitHub!👋)](https://git.io/typing-svg)
 
-<div align="left">
+</div>
+
+<div align="center">
   
 <b>😊 My favorite 😊</b>
 <br />
@@ -14,7 +18,7 @@
 
 <hr>
 
-<div align="left">
+<div align="center">
 <b>⚡ TECH STACK ⚡</b> <br>
 <br />
 <img src="https://img.shields.io/badge/html5-E34F26?style=fot-the-badge&logo=html5&logoColor=white">
@@ -37,7 +41,7 @@
 
 <hr>
 
-<div align="left">
+<div align="center">
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=youngsoon12&show_icons=true&theme=swift&hide=contribs" width="400" />
