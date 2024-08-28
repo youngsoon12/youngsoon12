@@ -37,15 +37,9 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=fot-the-badge&logo=Slack&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865f2?style=fot-the-badge&logo=Discord&logoColor=white">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="400" />
+
 </div>
 
 <hr>
 
-<div align="center">
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=youngsoon12&show_icons=true&theme=swift&hide=contribs" width="400" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="400" />
-
-</div>
