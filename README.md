@@ -20,7 +20,7 @@
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center; flex-direction: row">
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  <div>
     <b>⚡ TECH STACK ⚡</b> <br />
     <span>
       <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
