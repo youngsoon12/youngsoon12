@@ -18,18 +18,16 @@
 
 <hr>
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; flex-direction: row">
+<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start;">
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  <div style="flex: 1; display: flex; flex-wrap: wrap; justify-content: flex-start;">
     <b>⚡ TECH STACK ⚡</b> <br />
     <span>
       <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-      <br>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-      <br>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
       <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=000000">
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
@@ -37,11 +35,10 @@
     </span>
   </div>
 
-  <div>
+  <div style="flex: 1; display: flex; justify-content: flex-end;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="300" />
   </div>
 
 </div>
 
 <hr>
-
