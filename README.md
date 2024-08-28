@@ -19,7 +19,7 @@
 <hr>
 
 
-  <table>
+  <table align="center">
   <tr>
     <td>
       <b>⚡ TECH STACK ⚡</b> <br />
