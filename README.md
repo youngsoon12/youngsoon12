@@ -31,14 +31,15 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=fot-the-badge&logo=Node.js&logoColor=white"/>
 
 <br>
-
+<span>
 <img src="https://img.shields.io/badge/GitHub-181717?style=fot-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-white?style=fot-the-badge&logo=Notion&logoColor=000000">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=fot-the-badge&logo=Slack&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865f2?style=fot-the-badge&logo=Discord&logoColor=white">
-
+</span>
+<span>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="400" />
-
+</span>
 </div>
 
 <hr>
