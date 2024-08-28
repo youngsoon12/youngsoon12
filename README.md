@@ -10,7 +10,7 @@
 <br><br>
 <div align="center">
 <b>😊 MY HOBBY 😊</b>
-<br />
+<br><br>
 💪Exercise 🎵Music <br />
  💬Talk 📺watching movie
 <br><br>
@@ -35,7 +35,7 @@
 <br><br>
 <div align="center">
 <b>📊 GITHUB STATS</b> <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="320" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="380" />
 </div>
 <br><br>
 <div align="center">
