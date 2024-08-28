@@ -9,7 +9,7 @@
 <div align="center">
   
 <b>😊 My favorite 😊</b>
-<br /><br />
+<br />
 
 💪Exercise 🎵Music <br>
 💬Talk 📺watching movie
@@ -22,6 +22,7 @@
 
   <b>⚡ TECH STACK ⚡</b> 
   <br />
+  
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
@@ -36,6 +37,7 @@
 
   <b>📊 GitHub Stats</b> 
   <br />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="400" />
 
 
