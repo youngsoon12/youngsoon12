@@ -18,10 +18,11 @@
 
 <hr>
 
-<div style="display: flex; justify-content: center; align-items: center;">
 
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+
+  <div style="margin-right: 20px;">
     <b>⚡ TECH STACK ⚡</b> <br />
-    
     <span>
       <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
@@ -35,11 +36,13 @@
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
       <img src="https://img.shields.io/badge/Discord-5865f2?style=flat&logo=Discord&logoColor=white">
     </span>
+  </div>
 
-  <span>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="400" />
-  </span>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="300" />
+  </div>
 
 </div>
 
 <hr>
+
