@@ -10,7 +10,7 @@
 <br><br>
 <div align="center">
 <h3>😊 MY HOBBY 😊</h3>
-<br>
+
 💪Exercise 🎵Music <br />
  💬Talk 📺watching movie
 <br><br>
@@ -18,7 +18,7 @@
 
 <div align="center">
 <h3>✏️ TECH STACK </h3>
-<br>
+
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
@@ -39,7 +39,8 @@
 
 <br>
 <div align="center">
-<h3>📊 GITHUB STATS</h3> <br><br>
+<h3>📊 GITHUB STATS</h3>
+ 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="380" />
 </div>
 <br>
