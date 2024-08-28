@@ -2,7 +2,7 @@
 
 ## Hello everyone 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&color=36454A&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello+everyone+!;Welcome+to+YoungSoon12+github+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&color=36454A&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello+everyone+!;Welcome+to+youngsoon12+github+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,12 +21,12 @@
 
 <br/><br/>
 
+    
 <div align="center">
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngsoon12&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngsoon12&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=youngsoon12)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact)
+  
 </div>
+
