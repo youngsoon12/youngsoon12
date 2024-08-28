@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<div style="display: inline-block; vertical-align: top; margin-right: 20px;">
+<div style="display: inline-block; vertical-align: top; width: 45%;">
   <b>⚡ TECH STACK ⚡</b> <br />
   <span>
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -36,11 +36,10 @@
   </span>
 </div>
 
-<div style="display: inline-block; vertical-align: top;">
+<div style="display: inline-block; vertical-align: top; width: 45%;">
   <b>📊 GitHub Stats</b> <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="300" />
 </div>
 
 </div>
-
 <hr>
