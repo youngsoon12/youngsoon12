@@ -19,9 +19,8 @@
 <hr>
 
 
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-
-  <div style="margin-right: 20px;">
+  <div style="display:flex; justify-content:center; align-item:center"; >
+  <div>
     <b>⚡ TECH STACK ⚡</b> <br />
     <span>
       <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
