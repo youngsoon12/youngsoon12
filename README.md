@@ -2,9 +2,11 @@
 
 <div style="text-align: center;">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=dcdcdc&text=&animation=twinkling&height=80)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&fontSize=30&text=🖐🏻YoungSoon🖐🏻">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungsoon12&count_bg=%23E4CEF0&title_bg=%23D1DDF2&icon=&icon_color=%23E8E5E5&title=hits&edge_flat=false">
+<img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=enejwk789">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=333333&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+YoungSoon12's+GitHub!👋)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=333333&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+YoungSoon12's+GitHub!👋)](https://git.io/typing-svg) -->
 </div>
 
 <div align="center">
@@ -17,7 +19,8 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; max-width: 800px;">
         <div style="text-align: center; margin-right: 20px;">
-            <b>⚡ TECH STACK ⚡</b> <br />
+            <b>⚡ TECH STACK </b>
+            <br><br>
             <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
             <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
             <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
@@ -32,7 +35,7 @@
         </div>
 
 <div style="text-align: center;">
-<b>📊 GitHub Stats</b> <br />
+<b>📊 GITHUB STATS</b> <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="200" />
 </div>
 </div>
