@@ -1,6 +1,6 @@
 <div align="center">
 <b>⭐Hello Everyone⭐</b>
-<br>
+<br />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&color=36454A&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello+everyone+!;Welcome+to+youngsoon12+github+%F0%9F%92%BB)](https://git.io/typing-svg)
 
@@ -9,7 +9,8 @@
 <hr>
 
 <div align="center">
-  <br>
+  <br />
+  
 <b>😊 My favorite 😊</b>
 
 💪Exercise 🎵Music
