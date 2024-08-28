@@ -1,6 +1,8 @@
-<div align="center">
+<div align="center" style="background-color:#36454a; padding: 10px; border-radius: 10px;">
 
 ## Hello everyone 👋
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&color=3DF74A&center=true&vCenter=true&width=435&lines=Hello+everyone+!;Welcome+to+YoungSoon12+github+%F0%9F%92%BB)](https://git.io/typing-svg)
 
