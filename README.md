@@ -18,26 +18,29 @@
 
 <hr>
 
-<div align="center">
-<b>⚡ TECH STACK ⚡</b> <br>
-<br />
-<span>
-<img src="https://img.shields.io/badge/html5-E34F26?style=fot-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=fot-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=fot-the-badge&logo=javascript&logoColor=black">
-<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=fot-the-badge&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=fot-the-badge&logo=Node.js&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/GitHub-181717?style=fot-the-badge&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-white?style=fot-the-badge&logo=Notion&logoColor=000000">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=fot-the-badge&logo=Slack&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-5865f2?style=fot-the-badge&logo=Discord&logoColor=white">
-</span>
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
 
-<span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="400" />
-</span>
+  <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+    <b>⚡ TECH STACK ⚡</b> <br />
+    <span>
+      <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+      <br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=000000">
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+      <img src="https://img.shields.io/badge/Discord-5865f2?style=flat&logo=Discord&logoColor=white">
+    </span>
+  </div>
+
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsoon12&layout=compact&card_width=445&langs_count=6" width="400" />
+  </span>
+
 </div>
 
 <hr>
